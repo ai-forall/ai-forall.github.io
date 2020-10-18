@@ -4325,6 +4325,16 @@ label {
   margin-bottom: 0px;
 }
 
+.resp-iframe {    
+    width: 100%;
+    height: 160px;
+}
+
+.resp-iframe-full {    
+    width: 100%;
+    height: 315px;
+}
+
 
 
 
